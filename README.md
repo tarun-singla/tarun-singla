@@ -4,7 +4,7 @@ Hi, I am Tarun Singla, a senior at IIT Ropar, India. My interest lies in softwar
 
 📫 Reach me here: [Tarun Singla](https://www.linkedin.com/in/tarun-singla/)
 
-# My Github Stats
+<!-- # My Github Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tarun-singla&count_private=true&show_icons=true&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-singla&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-singla&theme=radical" /> -->
